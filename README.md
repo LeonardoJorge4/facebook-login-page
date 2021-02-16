@@ -8,7 +8,7 @@ npm run dev
 yarn dev
 ```
 <h1 align="center">
-    <img alt="Facebook" title="#delicinha" src=".github/facebook.png" width="250px" />
+    <img alt="Facebook" title="#delicinha" src=".github/facebook.png" />
 </h1>
 
 <br>
